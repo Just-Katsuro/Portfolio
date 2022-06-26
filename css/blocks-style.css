@@ -1,0 +1,261 @@
+.block-1 {
+	margin: 0 0 100px 0;
+}
+.block-1__flex{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.block-1__images {}
+.block-1__content {
+	width: 558px;
+}
+.block-1__title {}
+.subtitle-1 {
+	font-weight: 500;
+	font-size: 50px;
+	line-height: 57px;
+	letter-spacing: -1.56316px;
+	color: #19191B;
+	margin: 0 0 30px 0;
+}
+.block-1__text {}
+.subtext-1 {
+	font-weight: 500;
+	font-size: 20px;
+	line-height: 30px;
+	letter-spacing: -0.625263px;
+	color: #696871;
+	margin: 0 0 30px 0;
+}
+.block-1__link {}
+.link {
+	font-weight: 400;
+	font-size: 15px;
+	line-height: 21px;
+	letter-spacing: -0.531474px;
+	padding: 10px 18px;
+	background: #f3f3f3;
+	border-radius: 8px;
+	color: #313131;
+}
+.link:hover{
+	color: #fff;
+	background: #5454D4;
+	border-radius: 8px;
+}
+/*Block-2*/
+
+.block-2 {
+	margin: 0 0 145px 0;
+}
+.block-2__flex {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.block-2__content {}
+
+.block-2__title {}
+.subtitle-2 {
+	font-weight: 500;
+	font-size: 50px;
+	line-height: 57px;
+	letter-spacing: -1.56316px;
+	color: #19191B;
+	margin: 0 0 30px 0;
+}
+.block-2__text {}
+.subtext-2 {
+	font-weight: 500;
+	font-size: 20px;
+	line-height: 30px;
+	letter-spacing: -0.625263px;
+	color: #696871;
+	margin: 0 0 30px 0;
+}
+
+.block-2__link {}
+.link-2 {}
+
+.block-2__images {}
+
+/*block-3*/
+
+.block-3 {
+	margin: 0 0 145px 0;
+}
+.block-3__flex {
+	display: flex;
+	justify-content: space-between;
+}
+
+.block-3__card-1 {
+	width: 308px;
+}
+.card-1__center{
+	text-align: center;
+}
+
+.card-1__image {
+	margin: 0 0 7px 0;
+}
+
+.card-1__title {}
+.card-title-1 {
+	font-weight: 400;
+	font-size: 24px;
+	line-height: 36px;
+	letter-spacing: -0.750316px;
+	color: #19191B;
+
+	margin: 0 0 20px 0;
+}
+
+.card-1__text {}
+.card-text-1 {
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 24px;
+	letter-spacing: -0.500211px;
+	color: #696871;
+}
+
+.block-3__card-2 {
+	width: 308px;
+}
+.card-2__center {
+	text-align: center;
+}
+
+.card-2__image {
+	margin: 0 0 7px 0;
+}
+
+.card-2__title {}
+.card-title-2 {
+	font-weight: 400;
+	font-size: 24px;
+	line-height: 36px;
+	letter-spacing: -0.750316px;
+	color: #19191B;
+	margin: 0 0 20px 0;
+}
+
+.card-2__text {}
+.card-text-2 {
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 24px;
+	letter-spacing: -0.500211px;
+	color: #696871;
+}
+
+.block-3__card-3 {
+	width: 308px;
+}
+.card-3__center {
+	text-align: center;
+}
+
+.card-3__image {
+	margin: 0 0 7px 0;
+}
+
+.card-3__title {}
+.card-title-3 {
+	font-weight: 400;
+	font-size: 24px;
+	line-height: 36px;
+	letter-spacing: -0.750316px;
+	color: #19191B;
+	margin: 0 0 20px 0;
+}
+
+.card-3__text {}
+.card-text-3 {
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 24px;
+	letter-spacing: -0.500211px;
+	color: #696871;
+}
+
+/*block-4*/
+
+.block-4 {}
+.container {}
+.block-4__top-flex {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin: 0 0 84px 0;
+}
+.block-4__title {
+	width: 505px;
+}
+.subtitle-3 {
+	font-weight: 500;
+	font-size: 60px;
+	line-height: 70px;
+	letter-spacing: -1.87579px;
+	color: #19191B;
+}
+.block-4__choose {}
+.block-4__btn{
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 20px;
+	letter-spacing: -0.500211px;
+	padding: 18px 55px;
+	border-radius: 10px;
+}
+.block-4__btn:first-child{
+	background: #f3f3f3;
+	color: #19191b;
+}
+.block-4__btn:first-child:hover{
+	color: #fff;
+	background: #5454d4;
+}
+.block-4__btn:last-child{
+	background: #f3f3f3;
+	color: #19191B;
+}
+.block-4__btn:last-child:hover{
+	color: #fff;
+	background: #5454d4;
+}
+
+/*footer*/
+
+.footer {
+	background: #f6f6f6;
+}
+.container{}
+.footer-content {
+	margin:0 50px 0 50px;
+}
+
+.footer-content__title {
+	display: inline-block;
+}
+.footer-title {
+	font-weight: 400;
+	font-size: 15px;
+	line-height: 36px;
+	letter-spacing: -0.750316px;
+	color: #898989;
+	margin: 0 0 15px 0;
+}
+
+.footer-content__icons {
+	display: flex;
+	justify-content: space-between;
+}
+.footer__icons-1 {}
+.footer__icons-2 {}
+.footer__icons-3 {}
+.footer__icons-4 {}
+.footer__icons-5 {}
